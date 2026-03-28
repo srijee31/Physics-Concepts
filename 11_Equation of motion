@@ -1,0 +1,98 @@
+# 🚀 Equations of Motion
+
+## 📌 What are Equations of Motion?
+
+Equations of motion are used to describe the relationship between:
+- Displacement (s)
+- Velocity (u, v)
+- Acceleration (a)
+- Time (t)
+
+👉 These equations are valid only when **acceleration is constant**.
+
+---
+
+## 📏 The 3 Equations of Motion
+
+### 1️⃣ First Equation
+
+v = u + at
+
+Where:
+- v = Final velocity
+- u = Initial velocity
+- a = Acceleration
+- t = Time
+
+👉 Use when:
+- Time is given
+- Displacement is NOT required
+
+---
+
+### 2️⃣ Second Equation
+
+s = ut + (1/2)at²
+
+Where:
+- s = Displacement
+
+👉 Use when:
+- Time is given
+- Need to find displacement
+
+---
+
+### 3️⃣ Third Equation
+
+v² = u² + 2as
+
+👉 Use when:
+- Time is NOT given
+- Displacement is involved
+
+---
+
+## 🧠 How to Remember (Easy Trick)
+
+- v = u + at  → velocity-time relation  
+- s = ut + ½at² → displacement-time relation  
+- v² = u² + 2as → no time equation  
+
+---
+
+## 📐 Units
+
+- Velocity → m/s  
+- Acceleration → m/s²  
+- Displacement → meters (m)  
+- Time → seconds (s)
+
+---
+
+## ⚠️ Important Conditions
+
+- Acceleration must be **constant**
+- Motion should be in a **straight line**
+
+---
+
+## 🌍 Real-Life Examples
+
+- A car accelerating on a highway 🚗  
+- A bike slowing down with brakes 🛵  
+- A ball falling from a height ⚽  
+
+---
+
+## 🎯 Quick Summary
+
+- 3 main equations connect u, v, a, t, s  
+- Choose equation based on what is given  
+- Works only for constant acceleration  
+
+---
+
+## 🔜 Next Topic
+
+👉 Graphs of Motion (Distance-Time & Velocity-Time graphs)
